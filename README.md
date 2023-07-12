@@ -13,4 +13,4 @@ Verdin iMX8MP # print m7bootddr
 m7bootddr=tftp 0x80000000 m7.bin; dcache flush; bootaux 0x80000000
 ```
 
-<iframe src="//player.bilibili.com/player.html?aid=785775492&bvid=BV1114y1R7zy&cid=1194065571&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[![](https://telegraph-image-cqn.pages.dev/file/7024547aacc2ce5184190.png)](https://player.bilibili.com/player.html?aid=785775492&bvid=BV1114y1R7zy&cid=1194065571&page=1)
